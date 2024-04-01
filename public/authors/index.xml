@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Testing</title>
+    <title>Authors on Rabinovich</title>
     <link>https://your_domain.com/authors/</link>
-    <description>Recent content in Authors on Testing</description>
+    <description>Recent content in Authors on Rabinovich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
+    <copyright>© 2024 Rabinovich</copyright>
     <atom:link href="https://your_domain.com/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
